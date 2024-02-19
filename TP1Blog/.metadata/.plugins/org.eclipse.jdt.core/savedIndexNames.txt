@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\Document\Étude\Cours\Session 5 Novembre-Février 2023\Programmation Web Serveur 2\git\JSP-Servlet\TP1Blog\.metadata\.plugins\org.eclipse.jdt.core
+1637698788.index

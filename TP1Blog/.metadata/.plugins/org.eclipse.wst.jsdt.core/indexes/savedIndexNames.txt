@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\Document\Étude\Cours\Session 5 Novembre-Février 2023\Programmation Web Serveur 2\git\JSP-Servlet\TP1Blog\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3580169814.index
+1268676264.index
+2015767917.index
+610727198.index
